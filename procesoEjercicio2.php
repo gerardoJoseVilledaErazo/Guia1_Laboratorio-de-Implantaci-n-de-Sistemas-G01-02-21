@@ -34,5 +34,6 @@ echo "<br>";
 echo $_REQUEST['observaciones'];
 echo "<br>";
 ?>
+<input type="button" onclick="history.back()" name="volver atrás" value="volver atrás">
 </body>
 </html>

@@ -20,6 +20,8 @@ echo "<br>";
 echo $_REQUEST['usuario'];
 echo "<br>";
 echo "La contraseña no se mostrará por seguridad";
+echo "<br>";
 ?>
+<input type="button" onclick="history.back()" name="volver atrás" value="volver atrás">
 </body>
 </html>
